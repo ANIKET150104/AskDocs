@@ -113,27 +113,27 @@ Ask Question → GET http://localhost:8080/cht
 
 ## 🛠 Tech Stack
 
-### Backend: Spring Boot 3.5+
+**Backend: Spring Boot 3.5+**
 
-### AI Layer: Spring AI
+**AI Layer: Spring AI**
 
-### Frontend: HTML, CSS, HTMX(dynamic reloading), JTE(Server-side rendering)
+**Frontend: HTML, CSS, HTMX(dynamic reloading), JTE(Server-side rendering)**
 
-### LLM: Any of Your liking.
+**LLM: Any of Your liking.**
 
-### Embedding Model: Any of Your liking.
+**Embedding Model: Any of Your liking.**
 
-### Database: PgVector
+**Database: PgVector**
 
-### Build Tool: Maven
+**Build Tool: Maven**
 
 ## 📌 Roadmap
 
- ### Add support for multiple file upload
+ **Add support for multiple file upload**
 
- ### Enhance query responses with summarization
+ **Enhance query responses with summarization**
 
- ### Deploying the backend
+ **Deploying the backend**
 
 ## 🤝 Contributing
 
