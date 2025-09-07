@@ -1,6 +1,6 @@
 # 📄 AskDocs
 
-AskDocs is an intelligent document assistant built with **Spring Boot** and **AI-powered retrieval**.  
+AskDocs is an intelligent document assistant built with **Spring AI** and **Retrieval Augmented Generation**.  
 It allows you to upload documents, automatically ingests them, and lets you ask contextual questions based on their content.  
 
 ---
@@ -105,13 +105,15 @@ java -jar target/askdocs-0.0.1-SNAPSHOT.jar
 
 ### 4. Access APIs
 
-Upload File → POST http://localhost:8080/api/files/upload
+Home Page → GET http://localhost:8080/
 
-Ask Question → POST http://localhost:8080/api/query
+Upload File → POST http://localhost:8080/upload
+
+Ask Question → GET http://localhost:8080/cht
 
 ## 🛠 Tech Stack
 
-### Backend: Spring Boot 3
+### Backend: Spring Boot 3.5+
 
 ### AI Layer: Spring AI
 
