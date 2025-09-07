@@ -129,11 +129,11 @@ Ask Question → GET http://localhost:8080/cht
 
 ## 📌 Roadmap
 
- ###Add support for multiple file upload
+ ### Add support for multiple file upload
 
- ###Enhance query responses with summarization
+ ### Enhance query responses with summarization
 
- ###Deploying the backend
+ ### Deploying the backend
 
 ## 🤝 Contributing
 
