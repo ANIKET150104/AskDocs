@@ -30,9 +30,13 @@ https://github.com/user-attachments/assets/849d3e13-c38a-4db3-ba8d-7398d66cb4c1
 ---
 
 ## 🚀 Endpoints
+### Home Page
+| Method | Endpoint             | Description              |
+|--------|----------------------|--------------------------|
+| GET    |   `/`                | Takes to home page       |
 
 ### 📂 Upload a File
-| Method | Endpoint            | Description              |
+| Method | Endpoint             | Description              |
 |--------|----------------------|--------------------------|
 | POST   | `/upload`            | Upload and ingest a file |
 
@@ -43,8 +47,9 @@ Content-Type: multipart/form-data
 ```
 
 ## ❓ Ask a Question
-### Method	Endpoint	Description
-POST	/chat	Ask a question on docs
+| Method | Endpoint            | Description              |
+|--------|---------------------|--------------------------|
+| GET   |  `/chat`             | Ask a query             |
 
 **Request (JSON)**
 ```
